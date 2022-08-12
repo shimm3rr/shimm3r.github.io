@@ -100,7 +100,7 @@ ignore:
 theme: landscape
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:shimm3r/shimm3r.github.io.git
